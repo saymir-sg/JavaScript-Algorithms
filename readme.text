@@ -16,3 +16,7 @@ Asymptotic Notations
 1. Big-O-Notation - Worst case complexity
 2. Omega Notation - Best case complexity
 3. Theta Notation - Average case complexity
+
+1. Big-O-Notation
+ - it is expressed in terms of input
+ - It focuses on bigger picture without getting caught up in the minute details
