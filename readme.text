@@ -1,0 +1,18 @@
+JavaScript Algorithm
+
+What is algorithm ?
+It is set of well-defined intructions to solve a problem.
+
+it should have well defined inputs and output.
+each step should be clear and unambiguous.
+it should be language independent.
+
+Why algorithms ?
+
+we can have solve a problem in multiple ways.
+
+Asymptotic Notations
+- Mathematical to to represent time and space complexity
+1. Big-O-Notation - Worst case complexity
+2. Omega Notation - Best case complexity
+3. Theta Notation - Average case complexity
